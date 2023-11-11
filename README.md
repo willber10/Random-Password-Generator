@@ -22,7 +22,7 @@ I worked on this project with my study group peers, Chase Seeberger and Shelby H
 
 ## Screenshot
 
-<!-- Screenshot of randomly generated password -->
+![Screenshot of the Random password generator](./assets/module-3-screenshot.png)
 
 ## License
 
