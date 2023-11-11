@@ -18,7 +18,7 @@ I worked on this project with my study group peers, Chase Seeberger and Shelby H
 
 ## Link
 
-<!-- Link to deployed website -->
+https://willber10.github.io/Random-Password-Generator/
 
 ## Screenshot
 
